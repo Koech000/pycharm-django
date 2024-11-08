@@ -21,7 +21,7 @@ from django.urls import path
 from mywebapp import views
 
 
-urlpatterns = [
+urlpatterns = {
     path('', views.home, name='home'),
 
     path('services', views.services, name='services'),
@@ -29,4 +29,4 @@ urlpatterns = [
     path('about', views.about, name='about'),
 
     path('admin/', admin.site.urls),
-]
+}

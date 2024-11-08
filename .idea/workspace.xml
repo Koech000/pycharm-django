@@ -4,30 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d912b55-8bf4-407e-b039-f7f6f094a191" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/myProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myProject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myProject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myProject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myProject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myProject/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mywebapp/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mywebapp/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mywebapp/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mywebapp/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mywebapp/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mywebapp/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mywebapp/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/master.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/services.html" afterDir="false" />
+    <list default="true" id="9d912b55-8bf4-407e-b039-f7f6f094a191" name="Changes" comment="django projrct">
+      <change afterPath="$PROJECT_DIR$/myProject/static" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myProject/statics/css/mystyles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myProject/statics/images/1298775_whatsapp_chat_sms_social media_talk_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myProject/statics/images/317727_facebook_social media_social_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myProject/statics/images/5305170_bird_social media_social network_tweet_twitter_icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/myProject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/myProject/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mywebapp/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/mywebapp/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/master.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/master.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/services.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/services.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -61,8 +52,11 @@
     "Django Server.myProject.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
     "django.template.preview.state": "SHOW_EDITOR_AND_PREVIEW",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Admin/PycharmProjects/myProject/myProject/statics/images",
+    "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,6 +65,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\PycharmProjects\myProject\myProject\statics\images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="myProject" type="Python.DjangoServer" factoryName="Django server">
       <module name="myProject" />
@@ -114,11 +113,35 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730870364662</updated>
-      <workItem from="1730870366037" duration="4757000" />
+      <workItem from="1730870366037" duration="24039000" />
     </task>
+    <task id="LOCAL-00001" summary="django projrct">
+      <option name="closed" value="true" />
+      <created>1730875486482</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730875486482</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="django projrct" />
+    <option name="LAST_COMMIT_MESSAGE" value="django projrct" />
   </component>
 </project>

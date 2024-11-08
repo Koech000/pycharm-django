@@ -1,1 +1,24 @@
 {% extends 'master.html' %}
+{% block content %}
+<h2> our services</h2>
+{% for service in services %}
+<p>{{   }}</p>
+{% endfor %}
+
+<h3>ksh{{ price }}</h3>
+<h3>on date{{ date }}</h3>
+
+{% if price > 1000 %}
+<P> our best prices in town</P>
+{% endif %}
+
+{% if price > 2000 %}
+<p> our best prices in december</p>
+{% endif %}
+
+{% else %}
+<p> contact us for discounts</p>
+{% endif %}
+
+{% endblock %}
+
